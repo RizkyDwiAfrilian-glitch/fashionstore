@@ -24,3 +24,10 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+.bg-home{
+  background-image: url('https://images.openai.com/static-rsc-4/0a4eA1LfzK54X9ZmDXKrcNmVKa2-n1Fzt4pbFDuocWVYhzyhu4us4WlKj-7gX2SalB_aY7yZn_8KDU6yETo4CkmYhz2D1_F0W5mFQidEOvDEj_1QvOzHxsDC7tWSmU-_-b7SKiyy6sC3MeAVs2qD6Ccz3MI748exxTyjAlCJFms6RA-j2IwOmuMf9SihlUuM?purpose=fullsize');
+
+}
+.bg-home2 {
+  background-image: url('https://i.pinimg.com/1200x/dd/53/1f/dd531fc1c0957f72a3dc2c77f9749f69.jpg');
+}
